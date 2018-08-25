@@ -1,0 +1,437 @@
+date_published,episode,episode_name,rating_count,rating_value,season
+1999-09-20, Episode 1,Payback,511,8.4,Season 1 
+1999-09-27, Episode 2,A Single Life,366,8.2,Season 1 
+1999-10-04, Episode 3,...Or Just Look Like One,330,7.9,Season 1 
+1999-10-11, Episode 4,Hysteria,332,8.2,Season 1 
+1999-10-18, Episode 5,Wanderlust,305,7.8,Season 1 
+1999-10-25, Episode 6,Sophomore Jinx,295,8.0,Season 1 
+1999-11-15, Episode 7,Uncivilized,302,8.4,Season 1 
+1999-11-22, Episode 8,Stalked,288,8.2,Season 1 
+1999-11-29, Episode 9,Stocks & Bondage,267,7.8,Season 1 
+2000-01-07, Episode 10,Closure,318,8.3,Season 1 
+2000-01-14, Episode 11,Bad Blood,267,8.1,Season 1 
+2000-01-21, Episode 12,Russian Love Poem,282,7.5,Season 1 
+2000-02-04, Episode 13,Disrobed,276,8.2,Season 1 
+2000-02-11, Episode 14,Limitations,286,8.2,Season 1 
+2000-02-18, Episode 15,Entitled,271,7.9,Season 1 
+2000-02-25, Episode 16,The Third Guy,262,8.5,Season 1 
+2000-03-31, Episode 17,Misleader,256,7.8,Season 1 
+2000-04-14, Episode 18,Chat Room,271,7.8,Season 1 
+2000-04-28, Episode 19,Contact,274,8.2,Season 1 
+2000-05-05, Episode 20,Remorse,276,8.4,Season 1 
+2000-05-12, Episode 21,Nocturne,273,8.5,Season 1 
+2000-05-19, Episode 22,Slaves,292,8.3,Season 1 
+2000-10-20, Episode 1,Wrong Is Right,303,8.2,Season 2 
+2000-10-27, Episode 2,Honor,250,7.8,Season 2 
+2000-11-03, Episode 3,Closure: Part 2,275,8.5,Season 2 
+2000-11-10, Episode 4,Legacy,270,8.3,Season 2 
+2000-11-17, Episode 5,Baby Killer,270,8.3,Season 2 
+2000-11-24, Episode 6,Noncompliance,241,8.0,Season 2 
+2000-12-01, Episode 7,Asunder,252,8.0,Season 2 
+2000-12-15, Episode 8,Taken,275,8.3,Season 2 
+2001-01-12, Episode 9,Pixies,261,7.7,Season 2 
+2001-01-19, Episode 10,Consent,258,7.9,Season 2 
+2001-01-26, Episode 11,Abuse,279,7.9,Season 2 
+2001-02-02, Episode 12,Secrets,212,7.7,Season 2 
+2001-02-09, Episode 13,Victims,235,8.0,Season 2 
+2001-02-16, Episode 14,Paranoia,225,8.1,Season 2 
+2001-02-23, Episode 15,Countdown,263,8.6,Season 2 
+2001-03-02, Episode 16,Runaway,233,7.8,Season 2 
+2001-03-23, Episode 17,Folly,237,7.9,Season 2 
+2001-04-20, Episode 18,Manhunt,271,8.6,Season 2 
+2001-04-27, Episode 19,Parasites,219,8.1,Season 2 
+2001-05-04, Episode 20,Pique,290,8.5,Season 2 
+2001-05-11, Episode 21,Scourge,272,8.3,Season 2 
+2001-09-28, Episode 1,Repression,268,8.2,Season 3 
+2001-10-05, Episode 2,Wrath,269,8.3,Season 3 
+2001-10-12, Episode 3,Stolen,261,8.5,Season 3 
+2001-10-19, Episode 4,Rooftop,222,8.2,Season 3 
+2001-10-26, Episode 5,Tangled,223,8.2,Season 3 
+2001-11-02, Episode 6,Redemption,233,8.2,Season 3 
+2001-11-09, Episode 7,Sacrifice,248,8.2,Season 3 
+2001-11-16, Episode 8,Inheritance,228,8.1,Season 3 
+2001-11-23, Episode 9,Care,222,8.2,Season 3 
+2001-12-14, Episode 10,Ridicule,304,8.6,Season 3 
+2002-01-04, Episode 11,Monogamy,251,8.4,Season 3 
+2002-01-11, Episode 12,Protection,206,7.8,Season 3 
+2002-01-18, Episode 13,Prodigy,240,8.3,Season 3 
+2002-01-25, Episode 14,Counterfeit,216,8.1,Season 3 
+2002-02-01, Episode 15,Execution,251,8.3,Season 3 
+2002-03-01, Episode 16,Popular,235,8.1,Season 3 
+2002-03-08, Episode 17,Surveillance,240,8.2,Season 3 
+2002-03-29, Episode 18,Guilt,277,8.3,Season 3 
+2002-04-05, Episode 19,Justice,215,7.8,Season 3 
+2002-04-26, Episode 20,Greed,212,8.2,Season 3 
+2002-05-03, Episode 21,Denial,273,8.5,Season 3 
+2002-05-10, Episode 22,Competence,272,8.5,Season 3 
+2002-05-17, Episode 23,Silence,209,8.0,Season 3 
+2002-09-27, Episode 1,Chameleon,249,8.4,Season 4 
+2002-10-04, Episode 2,Deception,281,8.2,Season 4 
+2002-10-11, Episode 3,Vulnerable,207,8.1,Season 4 
+2002-10-18, Episode 4,Lust,205,7.9,Season 4 
+2002-10-25, Episode 5,Disappearing Acts,216,8.1,Season 4 
+2002-11-01, Episode 6,Angels,245,8.6,Season 4 
+2002-11-08, Episode 7,Dolls,245,8.4,Season 4 
+2002-11-15, Episode 8,Waste,226,8.1,Season 4 
+2002-11-22, Episode 9,Juvenile,276,8.5,Season 4 
+2002-12-06, Episode 10,Resilience,223,8.2,Season 4 
+2003-01-10, Episode 11,Damaged,246,8.5,Season 4 
+2003-01-17, Episode 12,Risk,210,8.3,Season 4 
+2003-01-24, Episode 13,Rotten,201,8.0,Season 4 
+2003-01-31, Episode 14,Mercy,246,8.4,Season 4 
+2003-02-07, Episode 15,Pandora,286,8.4,Season 4 
+2003-02-14, Episode 16,Tortured,223,8.1,Season 4 
+2003-02-21, Episode 17,Privilege,243,8.4,Season 4 
+2003-03-14, Episode 18,Desperate,272,8.6,Season 4 
+2003-03-28, Episode 19,Appearances,199,8.2,Season 4 
+2003-04-04, Episode 20,Dominance,353,8.8,Season 4 
+2003-04-18, Episode 21,Fallacy,339,8.7,Season 4 
+2003-04-25, Episode 22,Futility,215,8.2,Season 4 
+2003-05-02, Episode 23,Grief,209,8.1,Season 4 
+2003-05-09, Episode 24,Perfect,240,8.2,Season 4 
+2003-05-16, Episode 25,Soulless,244,8.5,Season 4 
+2003-09-23, Episode 1,Tragedy,229,8.1,Season 5 
+2003-09-30, Episode 2,Manic,238,8.1,Season 5 
+2003-10-07, Episode 3,Mother,243,8.2,Season 5 
+2003-10-14, Episode 4,Loss,358,8.9,Season 5 
+2003-10-21, Episode 5,Serendipity,221,8.2,Season 5 
+2003-10-28, Episode 6,Coerced,254,8.6,Season 5 
+2003-11-04, Episode 7,Choice,276,7.2,Season 5 
+2003-11-11, Episode 8,Abomination,247,8.1,Season 5 
+2003-11-18, Episode 9,Control,266,8.3,Season 5 
+2003-11-25, Episode 10,Shaken,223,8.1,Season 5 
+2003-12-02, Episode 11,Escape,264,8.5,Season 5 
+2004-01-06, Episode 12,Brotherhood,228,8.1,Season 5 
+2004-01-13, Episode 13,Hate,196,8.0,Season 5 
+2004-02-03, Episode 14,Ritual,222,8.3,Season 5 
+2004-02-10, Episode 15,Families,330,8.6,Season 5 
+2004-02-17, Episode 16,Home,259,8.3,Season 5 
+2004-02-24, Episode 17,Mean,317,8.7,Season 5 
+2004-03-02, Episode 18,Careless,215,8.2,Season 5 
+2004-03-30, Episode 19,Sick,273,8.2,Season 5 
+2004-04-06, Episode 20,Lowdown,234,8.3,Season 5 
+2004-04-20, Episode 21,Criminal,209,8.2,Season 5 
+2004-04-27, Episode 22,Painless,247,8.2,Season 5 
+2004-05-04, Episode 23,Bound,213,8.1,Season 5 
+2004-05-11, Episode 24,Poison,270,8.6,Season 5 
+2004-05-18, Episode 25,Head,236,8.1,Season 5 
+2004-09-21, Episode 1,Birthright,295,8.5,Season 6 
+2004-09-28, Episode 2,Debt,255,8.1,Season 6 
+2004-10-12, Episode 3,Obscene,273,8.0,Season 6 
+2004-10-19, Episode 4,Scavenger,372,8.8,Season 6 
+2004-10-26, Episode 5,Outcry,243,8.1,Season 6 
+2004-11-09, Episode 6,Conscience,419,8.9,Season 6 
+2004-11-16, Episode 7,Charisma,365,8.5,Season 6 
+2004-11-23, Episode 8,Doubt,391,8.3,Season 6 
+2004-11-30, Episode 9,Weak,248,8.0,Season 6 
+2004-12-07, Episode 10,Haunted,241,8.2,Season 6 
+2005-01-11, Episode 11,Contagious,312,8.1,Season 6 
+2005-01-18, Episode 12,Identity,455,8.8,Season 6 
+2005-01-25, Episode 13,Quarry,266,8.3,Season 6 
+2005-02-08, Episode 14,Game,243,7.7,Season 6 
+2005-02-15, Episode 15,Hooked,262,7.9,Season 6 
+2005-02-22, Episode 16,Ghost,316,8.6,Season 6 
+2005-03-01, Episode 17,Rage,299,8.4,Season 6 
+2005-03-08, Episode 18,Pure,297,8.5,Season 6 
+2005-03-29, Episode 19,Intoxicated,273,8.4,Season 6 
+2005-05-03, Episode 20,Night,282,8.4,Season 6 
+2005-05-10, Episode 21,Blood,205,7.7,Season 6 
+2005-05-17, Episode 22,Parts,252,8.0,Season 6 
+2005-05-24, Episode 23,Goliath,223,8.0,Season 6 
+2005-09-20, Episode 1,Demons,332,8.5,Season 7 
+2005-09-27, Episode 2,Design,345,8.7,Season 7 
+2005-10-04, Episode 3,911,862,9.0,Season 7 
+2005-10-11, Episode 4,Ripped,244,8.1,Season 7 
+2005-10-18, Episode 5,Strain,232,8.0,Season 7 
+2005-11-01, Episode 6,Raw,461,8.9,Season 7 
+2005-11-08, Episode 7,Name,236,7.8,Season 7 
+2005-11-15, Episode 8,Starved,259,8.1,Season 7 
+2005-11-22, Episode 9,Rockabye,214,8.0,Season 7 
+2005-11-29, Episode 10,Storm,263,8.3,Season 7 
+2005-12-06, Episode 11,Alien,253,7.9,Season 7 
+2006-01-03, Episode 12,Infected,223,8.1,Season 7 
+2006-01-10, Episode 13,Blast,222,8.1,Season 7 
+2006-01-17, Episode 14,Taboo,258,8.2,Season 7 
+2006-02-07, Episode 15,Manipulated,239,8.3,Season 7 
+2006-02-28, Episode 16,Gone,255,8.3,Season 7 
+2006-03-21, Episode 17,Class,204,7.8,Season 7 
+2006-03-28, Episode 18,Venom,236,8.4,Season 7 
+2006-04-04, Episode 19,Fault,325,8.7,Season 7 
+2006-05-02, Episode 20,Fat,264,7.9,Season 7 
+2006-05-09, Episode 21,Web,265,8.3,Season 7 
+2006-05-16, Episode 22,Influence,278,8.1,Season 7 
+2006-09-19, Episode 1,Informed,259,8.3,Season 8 
+2006-09-26, Episode 2,Clock,249,7.9,Season 8 
+2006-10-03, Episode 3,Recall,266,8.0,Season 8 
+2006-10-10, Episode 4,Uncle,281,8.1,Season 8 
+2006-10-17, Episode 5,Confrontation,236,7.9,Season 8 
+2006-10-31, Episode 6,Infiltrated,249,8.1,Season 8 
+2006-11-14, Episode 7,Underbelly,234,7.8,Season 8 
+2006-11-21, Episode 8,Cage,255,8.1,Season 8 
+2006-11-28, Episode 9,Choreographed,216,7.8,Season 8 
+2007-01-02, Episode 10,Scheherazade,314,8.6,Season 8 
+2007-01-09, Episode 11,Burned,262,8.1,Season 8 
+2007-01-16, Episode 12,Outsider,274,7.8,Season 8 
+2007-02-06, Episode 13,Loophole,214,7.9,Season 8 
+2007-02-13, Episode 14,Dependent,210,8.1,Season 8 
+2007-02-20, Episode 15,Haystack,209,8.1,Season 8 
+2007-02-27, Episode 16,Philadelphia,213,8.0,Season 8 
+2007-03-27, Episode 17,Sin,208,7.9,Season 8 
+2007-04-03, Episode 18,Responsible,301,8.1,Season 8 
+2007-05-01, Episode 19,Florida,228,8.3,Season 8 
+2007-05-08, Episode 20,Annihilated,227,8.2,Season 8 
+2007-05-15, Episode 21,Pretend,292,8.3,Season 8 
+2007-05-22, Episode 22,Screwed,401,8.7,Season 8 
+2007-09-25, Episode 1,Alternate,449,8.8,Season 9 
+2007-10-02, Episode 2,Avatar,312,7.7,Season 9 
+2007-10-09, Episode 3,Impulsive,327,8.2,Season 9 
+2007-10-16, Episode 4,Savant,320,8.6,Season 9 
+2007-10-23, Episode 5,Harm,270,7.3,Season 9 
+2007-11-06, Episode 6,Svengali,273,8.0,Season 9 
+2007-11-13, Episode 7,Blinded,254,8.3,Season 9 
+2007-11-20, Episode 8,Fight,252,7.7,Season 9 
+2007-11-27, Episode 9,Paternity,383,8.7,Season 9 
+2007-12-04, Episode 10,Snitch,224,7.5,Season 9 
+2008-01-01, Episode 11,Streetwise,380,8.0,Season 9 
+2008-01-08, Episode 12,Signature,361,8.7,Season 9 
+2008-01-15, Episode 13,Unorthodox,254,7.9,Season 9 
+2008-01-22, Episode 14,Inconceivable,245,8.1,Season 9 
+2008-04-15, Episode 15,Undercover,534,8.9,Season 9 
+2008-04-22, Episode 16,Closet,280,8.1,Season 9 
+2008-04-29, Episode 17,Authority,749,8.8,Season 9 
+2008-05-06, Episode 18,Trade,263,8.2,Season 9 
+2008-05-13, Episode 19,Cold,265,8.2,Season 9 
+2008-09-23, Episode 1,Trials,294,8.0,Season 10 
+2008-09-30, Episode 2,Confession,286,7.9,Season 10 
+2008-10-14, Episode 3,Swing,383,8.5,Season 10 
+2008-10-21, Episode 4,Lunacy,249,7.7,Season 10 
+2008-10-28, Episode 5,Retro,238,7.9,Season 10 
+2008-11-11, Episode 6,Babes,321,8.2,Season 10 
+2008-11-18, Episode 7,Wildlife,256,8.2,Season 10 
+2008-11-25, Episode 8,Persona,339,8.7,Season 10 
+2008-12-02, Episode 9,PTSD,230,8.2,Season 10 
+2008-12-09, Episode 10,Smut,239,8.1,Season 10 
+2009-01-06, Episode 11,Stranger,281,8.6,Season 10 
+2009-01-13, Episode 12,Hothouse,332,8.5,Season 10 
+2009-02-03, Episode 13,Snatched,225,8.1,Season 10 
+2009-02-17, Episode 14,Transitions,361,8.5,Season 10 
+2009-03-10, Episode 15,Lead,251,8.2,Season 10 
+2009-03-17, Episode 16,Ballerina,331,8.5,Season 10 
+2009-03-31, Episode 17,Hell,217,8.1,Season 10 
+2009-04-07, Episode 18,Baggage,233,8.4,Season 10 
+2009-04-28, Episode 19,Selfish,304,8.1,Season 10 
+2009-05-05, Episode 20,Crush,307,8.4,Season 10 
+2009-05-19, Episode 21,Liberties,318,8.7,Season 10 
+2009-06-02, Episode 22,Zebras,429,8.8,Season 10 
+2009-09-23, Episode 1,Unstable,294,8.3,Season 11 
+2009-09-30, Episode 2,Sugar,226,8.0,Season 11 
+2009-10-07, Episode 3,Solitary,254,8.2,Season 11 
+2009-10-14, Episode 4,Hammered,230,8.0,Season 11 
+2009-10-21, Episode 5,Hardwired,286,8.6,Season 11 
+2009-10-28, Episode 6,Spooked,211,7.8,Season 11 
+2009-11-04, Episode 7,Users,224,8.1,Season 11 
+2009-11-11, Episode 8,Turmoil,235,8.2,Season 11 
+2009-11-18, Episode 9,Perverted,253,8.5,Season 11 
+2009-12-09, Episode 10,Anchor,262,7.7,Season 11 
+2010-01-06, Episode 11,Quickie,224,8.2,Season 11 
+2010-01-13, Episode 12,Shadow,357,8.9,Season 11 
+2010-03-03, Episode 13,P.C.,274,8.0,Season 11 
+2010-03-03, Episode 14,Savior,225,8.0,Season 11 
+2010-03-10, Episode 15,Confidential,199,7.9,Season 11 
+2010-03-17, Episode 16,Witness,267,8.5,Season 11 
+2010-03-24, Episode 17,Disabled,249,8.5,Season 11 
+2010-03-31, Episode 18,Bedtime,255,7.9,Season 11 
+2010-04-07, Episode 19,Conned,206,7.7,Season 11 
+2010-04-21, Episode 20,Beef,220,7.5,Season 11 
+2010-04-28, Episode 21,Torch,243,7.9,Season 11 
+2010-05-05, Episode 22,Ace,232,8.1,Season 11 
+2010-05-12, Episode 23,Wannabe,227,8.1,Season 11 
+2010-05-19, Episode 24,Shattered,289,7.9,Season 11 
+2010-09-22, Episode 1,Locum,375,8.6,Season 12 
+2010-09-22, Episode 2,Bullseye,281,8.5,Season 12 
+2010-09-29, Episode 3,Behave,460,8.9,Season 12 
+2010-10-06, Episode 4,Merchandise,276,8.5,Season 12 
+2010-10-13, Episode 5,Wet,270,7.5,Season 12 
+2010-10-20, Episode 6,Branded,322,8.4,Season 12 
+2010-11-03, Episode 7,Trophy,239,8.1,Season 12 
+2010-11-10, Episode 8,Penetration,234,7.8,Season 12 
+2010-11-17, Episode 9,Gray,227,7.8,Season 12 
+2010-12-01, Episode 10,Rescue,222,7.7,Season 12 
+2011-01-05, Episode 11,Pop,253,8.1,Season 12 
+2011-01-05, Episode 12,Possessed,276,8.4,Season 12 
+2011-01-12, Episode 13,Mask,304,8.6,Season 12 
+2011-01-19, Episode 14,Dirty,239,7.3,Season 12 
+2011-02-02, Episode 15,Flight,220,7.8,Season 12 
+2011-02-09, Episode 16,Spectacle,249,8.1,Season 12 
+2011-02-16, Episode 17,Pursuit,223,8.1,Season 12 
+2011-02-23, Episode 18,Bully,221,8.0,Season 12 
+2011-03-23, Episode 19,Bombshell,261,7.8,Season 12 
+2011-03-30, Episode 20,Totem,269,8.6,Season 12 
+2011-04-06, Episode 21,Reparations,243,8.1,Season 12 
+2011-05-04, Episode 22,Bang,297,8.0,Season 12 
+2011-05-11, Episode 23,Delinquent,313,8.5,Season 12 
+2011-05-18, Episode 24,Smoked,322,8.5,Season 12 
+2011-09-21, Episode 1,Scorched Earth,319,7.7,Season 13 
+2011-09-28, Episode 2,Personal Fouls,342,8.4,Season 13 
+2011-10-05, Episode 3,Blood Brothers,307,7.9,Season 13 
+2011-10-12, Episode 4,Double Strands,323,8.2,Season 13 
+2011-10-19, Episode 5,Missing Pieces,274,7.6,Season 13 
+2011-11-02, Episode 6,True Believers,320,7.9,Season 13 
+2011-11-09, Episode 7,Russian Brides,286,8.3,Season 13 
+2011-11-16, Episode 8,Educated Guess,264,8.0,Season 13 
+2011-11-30, Episode 9,Lost Traveller,309,8.3,Season 13 
+2011-12-07, Episode 10,Spiraling Down,369,8.6,Season 13 
+2012-01-11, Episode 11,Theatre Tricks,303,8.0,Season 13 
+2012-01-18, Episode 12,Official Story,277,8.3,Season 13 
+2012-02-08, Episode 13,Father's Shadow,296,7.9,Season 13 
+2012-02-15, Episode 14,Home Invasions,253,8.0,Season 13 
+2012-02-22, Episode 15,Hunting Ground,271,8.3,Season 13 
+2012-02-29, Episode 16,Child's Welfare,244,8.1,Season 13 
+2012-04-11, Episode 17,Justice Denied,234,8.1,Season 13 
+2012-04-18, Episode 18,Valentine's Day,260,7.9,Season 13 
+2012-04-25, Episode 19,Street Revenge,214,7.6,Season 13 
+2012-05-02, Episode 20,Father Dearest,271,8.0,Season 13 
+2012-05-09, Episode 21,Learning Curve,250,7.9,Season 13 
+2012-05-16, Episode 22,Strange Beauty,253,8.1,Season 13 
+2012-05-23, Episode 23,Rhodium Nights,294,8.6,Season 13 
+2012-09-26, Episode 1,Lost Reputation,351,8.7,Season 14 
+2012-09-26, Episode 2,Above Suspicion,292,8.6,Season 14 
+2012-10-10, Episode 3,Twenty-Five Acts,320,8.2,Season 14 
+2012-10-17, Episode 4,Acceptable Loss,266,8.0,Season 14 
+2012-10-24, Episode 5,Manhattan Vigil,285,8.1,Season 14 
+2012-10-31, Episode 6,Friending Emily,265,8.1,Season 14 
+2012-11-14, Episode 7,Vanity's Bonfire,256,7.7,Season 14 
+2012-11-21, Episode 8,Lessons Learned,290,8.0,Season 14 
+2012-12-05, Episode 9,Dreams Deferred,461,8.9,Season 14 
+2013-01-02, Episode 10,Presumed Guilty,231,8.0,Season 14 
+2013-01-09, Episode 11,Beautiful Frame,233,7.9,Season 14 
+2013-01-30, Episode 12,Criminal Hatred,250,8.0,Season 14 
+2013-02-06, Episode 13,Monster's Legacy,287,8.4,Season 14 
+2013-02-13, Episode 14,Secrets Exhumed,264,8.1,Season 14 
+2013-02-20, Episode 15,Deadly Ambition,270,8.2,Season 14 
+2013-02-27, Episode 16,Funny Valentine,265,7.7,Season 14 
+2013-03-20, Episode 17,Undercover Blue,222,8.0,Season 14 
+2013-03-27, Episode 18,Legitimate Rape,277,8.2,Season 14 
+2013-04-03, Episode 19,Born Psychopath,378,8.7,Season 14 
+2013-04-24, Episode 20,Girl Dishonored,265,8.2,Season 14 
+2013-05-01, Episode 21,Traumatic Wound,235,7.7,Season 14 
+2013-05-08, Episode 22,Poisoned Motive,239,7.5,Season 14 
+2013-05-15, Episode 23,Brief Interlude,226,7.5,Season 14 
+2013-05-22, Episode 24,Her Negotiation,413,8.9,Season 14 
+2013-09-25, Episode 1,Surrender Benson,541,8.9,Season 15 
+2013-09-25, Episode 2,Imprisoned Lives,267,8.0,Season 15 
+2013-10-02, Episode 3,American Tragedy,270,7.9,Season 15 
+2013-10-09, Episode 4,Internal Affairs,267,8.4,Season 15 
+2013-10-16, Episode 5,Wonderland Story,251,8.2,Season 15 
+2013-10-23, Episode 6,October Surprise,230,7.9,Season 15 
+2013-11-06, Episode 7,Dissonant Voices,281,8.3,Season 15 
+2013-11-13, Episode 8,Military Justice,245,8.4,Season 15 
+2013-11-20, Episode 9,Rapist Anonymous,230,7.9,Season 15 
+2014-01-08, Episode 10,Psycho/Therapist,312,8.4,Season 15 
+2014-01-15, Episode 11,Amaro's One-Eighty,254,8.2,Season 15 
+2014-01-22, Episode 12,Jersey Breakdown,227,8.1,Season 15 
+2014-01-29, Episode 13,Betrayal's Climax,224,7.8,Season 15 
+2014-02-05, Episode 14,Wednesday's Child,221,7.6,Season 15 
+2014-02-26, Episode 15,Comic Perversion,267,7.6,Season 15 
+2014-03-05, Episode 16,Gridiron Soldier,242,7.8,Season 15 
+2014-03-12, Episode 17,Gambler's Fallacy,311,8.6,Season 15 
+2014-03-19, Episode 18,Criminal Stories,231,7.9,Season 15 
+2014-04-02, Episode 19,Downloaded Child,257,8.2,Season 15 
+2014-04-09, Episode 20,Beast's Obsession,362,8.7,Season 15 
+2014-04-30, Episode 21,Post-Mortem Blues,243,8.1,Season 15 
+2014-05-07, Episode 22,Reasonable Doubt,218,7.6,Season 15 
+2014-05-14, Episode 23,Thought Criminal,219,8.0,Season 15 
+2014-05-21, Episode 24,Spring Awakening,227,8.4,Season 15 
+2014-09-24, Episode 1,Girls Disappeared,307,8.5,Season 16 
+2014-10-01, Episode 2,American Disgrace,280,7.7,Season 16 
+2014-10-08, Episode 3,Producer's Backend,277,8.1,Season 16 
+2014-10-15, Episode 4,Holden's Manifesto,307,8.3,Season 16 
+2014-10-22, Episode 5,Pornstar's Requiem,326,7.8,Season 16 
+2014-11-05, Episode 6,Glasgowman's Wrath,290,7.8,Season 16 
+2014-11-12, Episode 7,Chicago Crossover,326,8.1,Season 16 
+2014-11-19, Episode 8,Spousal Privilege,270,6.6,Season 16 
+2014-12-10, Episode 9,Pattern Seventeen,257,7.4,Season 16 
+2015-01-07, Episode 10,Forgiving Rollins,285,7.5,Season 16 
+2015-01-14, Episode 11,Agent Provocateur,279,7.8,Season 16 
+2015-01-21, Episode 12,Padre Sandunguero,279,7.9,Season 16 
+2015-02-04, Episode 13,Decaying Morality,301,7.3,Season 16 
+2015-02-11, Episode 14,Intimidation Game,"1,194",3.3,Season 16 
+2015-02-18, Episode 15,Undercover Mother,311,7.0,Season 16 
+2015-02-25, Episode 16,December Solstice,305,6.6,Season 16 
+2015-03-25, Episode 17,Parole Violations,303,7.0,Season 16 
+2015-04-01, Episode 18,Devastating Story,280,6.2,Season 16 
+2015-04-08, Episode 19,Granting Immunity,276,6.4,Season 16 
+2015-04-29, Episode 20,Daydream Believer,331,8.1,Season 16 
+2015-05-06, Episode 21,Perverted Justice,237,7.1,Season 16 
+2015-05-13, Episode 22,Parents' Nightmare,225,6.9,Season 16 
+2015-05-20, Episode 23,Surrendering Noah,258,7.7,Season 16 
+2015-09-23, Episode 1,Devil's Dissections,324,8.5,Season 17 
+2015-09-23, Episode 2,Criminal Pathology,278,8.2,Season 17 
+2015-09-30, Episode 3,Transgender Bridge,356,8.1,Season 17 
+2015-10-07, Episode 4,Institutional Fail,287,8.2,Season 17 
+2015-10-14, Episode 5,Community Policing,253,7.7,Season 17 
+2015-10-21, Episode 6,Maternal Instincts,247,7.5,Season 17 
+2015-11-04, Episode 7,Patrimonial Burden,255,7.7,Season 17 
+2015-11-11, Episode 8,Melancholy Pursuit,213,7.5,Season 17 
+2015-11-18, Episode 9,Depravity Standard,219,7.2,Season 17 
+2016-01-06, Episode 10,Catfishing Teacher,257,7.6,Season 17 
+2016-01-13, Episode 11,Townhouse Incident,296,8.4,Season 17 
+2016-01-20, Episode 12,A Misunderstanding,219,7.4,Season 17 
+2016-02-03, Episode 13,Forty-One Witnesses,213,7.7,Season 17 
+2016-02-10, Episode 14,Nationwide Manhunt,274,8.1,Season 17 
+2016-02-17, Episode 15,Collateral Damages,262,8.4,Season 17 
+2016-02-24, Episode 16,Star-Struck Victims,216,7.6,Season 17 
+2016-03-02, Episode 17,Manhattan Transfer,288,8.6,Season 17 
+2016-03-23, Episode 18,Unholiest Alliance,246,8.3,Season 17 
+2016-03-30, Episode 19,Sheltered Outcasts,221,8.1,Season 17 
+2016-05-04, Episode 20,Fashionable Crimes,203,7.8,Season 17 
+2016-05-11, Episode 21,Assaulting Reality,218,7.5,Season 17 
+2016-05-18, Episode 22,Intersecting Lives,218,8.4,Season 17 
+2016-05-25, Episode 23,Heartfelt Passages,308,8.7,Season 17 
+2016-09-21, Episode 1,Terrorized,267,7.9,Season 18 
+2016-09-28, Episode 2,Making a Rapist,248,7.8,Season 18 
+2016-10-05, Episode 3,Imposter,298,6.4,Season 18 
+2016-10-12, Episode 4,Heightened Emotions,215,7.2,Season 18 
+2016-10-26, Episode 5,Rape Interrupted,231,7.5,Season 18 
+2016-11-09, Episode 6,Broken Rhymes,205,7.7,Season 18 
+2017-01-04, Episode 7,Next Chapter,204,7.8,Season 18 
+2017-01-11, Episode 8,Chasing Theo,196,7.9,Season 18 
+2017-01-18, Episode 9,Decline and Fall,201,8.3,Season 18 
+2017-02-08, Episode 10,Motherly Love,256,8.6,Season 18 
+2017-02-15, Episode 11,Great Expectations,204,8.6,Season 18 
+2017-02-22, Episode 12,No Surrender,182,7.8,Season 18 
+2017-03-22, Episode 13,Genes,170,8.1,Season 18 
+2017-03-29, Episode 14,Net Worth,165,8.2,Season 18 
+2017-04-05, Episode 15,Know It All,161,8.1,Season 18 
+2017-04-26, Episode 16,The Newsroom,166,8.2,Season 18 
+2017-05-03, Episode 17,Real Fake News,183,8.4,Season 18 
+2017-05-10, Episode 18,Spellbound,180,7.6,Season 18 
+2017-05-17, Episode 19,Conversion,184,8.0,Season 18 
+2017-05-24, Episode 20,American Dream,196,8.4,Season 18 
+2017-05-24, Episode 21,Sanctuary,213,8.4,Season 18 
+2017-09-27, Episode 1,Gone Fishin',218,8.4,Season 19 
+2017-10-04, Episode 2,Mood,188,8.2,Season 19 
+2017-10-11, Episode 3,Contrapasso,189,8.1,Season 19 
+2017-10-18, Episode 4,No Good Reason,217,8.4,Season 19 
+2017-10-25, Episode 5,Complicated,181,8.3,Season 19 
+2017-11-08, Episode 6,Unintended Consequences,180,8.1,Season 19 
+2017-11-29, Episode 7,Something Happened,258,7.8,Season 19 
+2017-12-06, Episode 8,Intent,176,8.4,Season 19 
+2018-01-03, Episode 9,Gone Baby Gone,204,8.7,Season 19 
+2018-01-10, Episode 10,Pathological,157,8.4,Season 19 
+2018-01-17, Episode 11,Flight Risk,180,7.8,Season 19 
+2018-01-31, Episode 12,Info Wars,300,5.7,Season 19 
+2018-02-07, Episode 13,The Undiscovered Country,256,8.9,Season 19 
+2018-02-28, Episode 14,Chasing Demons,154,8.5,Season 19 
+2018-03-07, Episode 15,In Loco Parentis,153,7.4,Season 19 
+2018-03-14, Episode 16,Dare,172,8.8,Season 19 
+2018-03-21, Episode 17,Send in the Clowns,157,8.7,Season 19 
+2018-04-11, Episode 18,Service,159,8.8,Season 19 
+2018-04-18, Episode 19,Sunk Cost Fallacy,138,8.7,Season 19 
+2018-05-02, Episode 20,The Book of Esther,147,8.5,Season 19 
+2018-05-09, Episode 21,Guardian,110,8.5,Season 19 
+2018-05-16, Episode 22,Mama,113,8.6,Season 19 
+2018-05-23, Episode 23,Remember Me,134,7.6,Season 19 
+2018-05-23, Episode 24,Remember Me Too,137,7.7,Season 19 
+2018-09-27, Episode 1,Episode #20.1,,,Season 20 
+2018-09-27, Episode 2,Episode #20.2,,,Season 20 
